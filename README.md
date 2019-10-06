@@ -17,11 +17,11 @@ This repository is a training camp for our new android developers. We collect so
 
 3. Learn about Shared Preferences. [Refrence Link](https://developer.android.com/training/data-storage/shared-preferences) | Refrence Code 
 
-4.
+4. Learn about Fragment in Android. [Refrence Link](https://developer.android.com/guide/components/fragments.html) | Refrence Code
 
-5.
+5. Learn about RecyclerView in Android. [Refrence Link](https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html) | Refrence Code
 
-6.
+6. 
 
 7.
 
