@@ -11,3 +11,22 @@ This repository is a training camp for our new android developers. We collect so
 ---
 
 ## Headlines
+1. Learn about debugging an Android Application step by step. [Refrence Link](https://developer.android.com/studio/debug/index.html) |  Refrence Code
+
+2. Understand the Activity Lifecycle. [Refrence Link](https://developer.android.com/guide/components/activities/activity-lifecycle) | Refrence Code
+
+3. Learn about Shared Preferences. [Refrence Link]() | [Refrence Code]() 
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
