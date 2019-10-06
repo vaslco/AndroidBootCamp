@@ -1,6 +1,6 @@
 # AndroidBootCamp
 In our Interviews we have seen most of our هntern volunteers ask, how to learn Android programming and become a complete android developer. Learning android developmet is a step by step proccess, Here, We have tried to cover most of the important headlines in the Android Development. So this guide will show how to learn android app development step by step. This repository will help you became an android developer. We collect some major headlines In a complete project repositories as a BootCamp. 
-Let's Start And Have fun.
+**Let's Start And Have fun.**
 
 ---
 
