@@ -3,7 +3,6 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 
 **Let's Start And Have fun.**
 
----
 
 ## Pre Knowledge
 * First of all, you must have a basic knowledge of the Java language for Android Development.
@@ -14,7 +13,6 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 
 ## Headlines
 
----
 
 | Id | Title | Refrence Link | Refrence Code |
 | --- | --- | --- | --- |
