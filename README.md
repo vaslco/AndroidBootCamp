@@ -30,3 +30,13 @@ This repository is a training camp for our new android developers. We collect so
 9. Learn about Networking in Android applications. [Refrence Link](https://developer.android.com/training/basics/network-ops/connecting) | Refrence Code
 
 10. Learn about Database and ORM. [Refrence Link](https://developer.android.com/training/data-storage/sqlite) | Refrence Code
+
+---
+
+## Headlines
+| Id | Title | Refrence Link | Refrence Code |
+| --- | --- | --- | --- |
+|1| Learn about debugging an Android Application step by step.| [Refrence Link](https://developer.android.com/training/data-storage/shared-preferences) | Refrence Code |
+|2| Understand the Activity Lifecycle. | [Refrence Link](https://developer.android.com/guide/components/activities/activity-lifecycle) | Refrence Code |
+
+
