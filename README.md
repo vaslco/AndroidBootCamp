@@ -15,7 +15,7 @@ This repository is a training camp for our new android developers. We collect so
 
 2. Understand the Activity Lifecycle. [Refrence Link](https://developer.android.com/guide/components/activities/activity-lifecycle) | Refrence Code
 
-3. Learn about Shared Preferences. [Refrence Link]() | [Refrence Code]() 
+3. Learn about Shared Preferences. [Refrence Link](https://developer.android.com/training/data-storage/shared-preferences) | Refrence Code 
 
 4.
 
