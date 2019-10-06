@@ -7,12 +7,14 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 **Let's Start And Have fun.**
 
 
+
 ## Pre Knowledge
 * First of all, you must have a basic knowledge of the Java language for Android Development.
 * Set up Android Studio IDE of Android Development on your PC or Laptop.
 * Take a course or any book on Android app development with which you are comfortable.
 
 ---
+
 
 ## Headlines
 
@@ -31,6 +33,10 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 
 
 ---
+
+
+
+
 
 
 # TO BE CONTINUED ...
