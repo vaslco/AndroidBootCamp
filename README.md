@@ -33,6 +33,7 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 |13| Learn about creating Custom View. | [Refrence Link](https://developer.android.com/training/custom-views/index.html) | Refrenec Code |
 |14| Learn about Notification. | [Refrence Link](https://developer.android.com/guide/topics/ui/notifiers/notifications.html) | Refrenec Code |
 |15| Learn about Orientation Changes. | [Refrence Link](https://developer.android.com/guide/topics/resources/runtime-changes.html) | Refrenec Code |
+|16| Learn How The Android Image Loading Library work (Glide, Fresco) | [Refrence Link](https://github.com/bumptech/glide) | Refrenec Code |
 
 ---
 
