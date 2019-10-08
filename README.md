@@ -28,7 +28,11 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 |8| Learn about basic threading. | [Refrence Link](https://developer.android.com/topic/performance/threads) | Refrence Code |
 |9| Learn about Networking in Android applications. | [Refrence Link](https://developer.android.com/training/basics/network-ops/connecting) | Refrence Code |
 |10| Learn about Database and ORM. | [Refrence Link](https://developer.android.com/training/data-storage/sqlite) | Refrence Code |
-
+|11| Learn about Service, IntentService | [Refrence Link](https://developer.android.com/guide/components/services.html) | Refrenec Code |
+|12| Learn about the Android Sensors, GPS, Acceleration. | [Refrence Link](https://developer.android.com/guide/topics/sensors/sensors_motion.html) | Refrenec Code |
+|13| Learn about creating Custom View. | [Refrence Link](https://developer.android.com/training/custom-views/index.html) | Refrenec Code |
+|14| Learn about Notification. | [Refrence Link](https://developer.android.com/guide/topics/ui/notifiers/notifications.html) | Refrenec Code |
+|15| Learn about Orientation Changes. | [Refrence Link](https://developer.android.com/guide/topics/resources/runtime-changes.html) | Refrenec Code |
 
 ---
 
