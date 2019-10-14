@@ -37,6 +37,7 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 |17| Learn about Orientation Changes. | [Refrence Link](https://developer.android.com/guide/topics/resources/runtime-changes.html) | Refrenec Code |
 |18| Learn How The Android Image Loading Library work (Glide, Fresco) | [Refrence Link](https://github.com/bumptech/glide) | Refrenec Code |
 |19| Learn about Map and location base APIs | [Refrence Link](https://developers.google.com/android/reference/com/google/android/gms/maps/MapView) | Refrenec Code |
+|20| Learn how to Play Audio and Video in Android | [Refrence Link](https://developer.android.com/guide/topics/media) | Refrenec Code |
 
 ---
 
