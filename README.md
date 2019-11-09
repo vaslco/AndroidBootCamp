@@ -48,6 +48,7 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 |28| Learn how to work with Horizontal recyclerview in Android | [Refrence Link](https://developer.android.com/reference/android/support/v7/widget/LinearLayoutManager) | Refrenec Code |
 |29| Learn how to create GridView with recyclerview in Android | [Refrence Link](https://developer.android.com/reference/android/support/v7/widget/GridLayoutManager) | Refrenec Code |
 |30| Learn how to work with calendars and datepickers in Android | [Refrence Link](https://developer.android.com/reference/java/util/Calendar) | Refrenec Code |
+|31| Learn how to work with camera (Image/Video) in Android | [Refrence Link](https://developer.android.com/guide/topics/media/camera) | Refrenec Code |
 
 
 
