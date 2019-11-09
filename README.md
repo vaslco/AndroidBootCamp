@@ -43,6 +43,12 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 |23| Learn how to work with proguard in Android | [Refrence Link](https://developer.android.com/studio/build/shrink-code) | Refrenec Code |
 |24| Learn how to build multi language app in Android | [Refrence Link](https://developer.android.com/training/basics/supporting-devices/languages) | Refrenec Code |
 |25| Learn how to build multi theme app in Android | [Refrence Link](https://developer.android.com/guide/topics/ui/look-and-feel/themes) | Refrenec Code |
+|26| Learn how to work with bundles in Android | [Refrence Link](https://developer.android.com/reference/android/os/Bundle) | Refrenec Code |
+|27| Learn how to work with Spinners in Android | [Refrence Link](https://developer.android.com/guide/topics/ui/controls/spinner) | Refrenec Code |
+|28| Learn how to work with Horizontal recyclerview in Android | [Refrence Link](https://developer.android.com/reference/android/support/v7/widget/LinearLayoutManager) | Refrenec Code |
+|29| Learn how to create GridView with recyclerview in Android | [Refrence Link](https://developer.android.com/reference/android/support/v7/widget/GridLayoutManager) | Refrenec Code |
+ |
+|30| Learn how to work with calendars and datepickers in Android | [Refrence Link](https://developer.android.com/reference/java/util/Calendar) | Refrenec Code |
 
 
 
