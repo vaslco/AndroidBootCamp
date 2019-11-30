@@ -62,6 +62,7 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 |3| Implement Custom SnackBars | Refrence Link | Refrenec Code |
 |4| Implement Custom FAB (FLoatingActionButton) | Refrence Link | Refrenec Code |
 |5| Implement Custom BottomSheet (font + coloring) | Refrence Link | Refrenec Code |
+|6| Implement Veiw Selectors (Clicked, Hover,... ) | Refrence Link | Refrenec Code |
 
 
 ## Headlines ( Advance )
