@@ -56,6 +56,7 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 
 ## Headlines ( UI/UX )
 | Id | Title | Refrence Link | Refrence Code |
+| --- | --- | --- | --- |
 |1| Implement complex Recyclerview (multi-view) | Refrence Link | Refrenec Code |
 |2| Implement Sliding Pages (Intro Pages) | Refrence Link | Refrenec Code |
 |3| Implement Custom SnackBars | Refrence Link | Refrenec Code |
