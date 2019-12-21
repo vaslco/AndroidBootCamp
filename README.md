@@ -78,6 +78,6 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 | --- | --- | --- | --- |
 | Glide | An image loading and caching library for Android | [Refrence Link](https://github.com/bumptech/glide) | Refrenec Code |
 | Retrofit | A type-safe HTTP client for Android and Java | [Refrence Link](https://square.github.io/retrofit/) | Refrenec Code |
-| SDP | scalable size unit | [Refrence Link](https://github.com/intuit/sdp) | Refrenec Code |
+| SDP | Scalable size unit | [Refrence Link](https://github.com/intuit/sdp) | Refrenec Code |
 
 
