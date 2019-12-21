@@ -77,6 +77,7 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 | Lib | Title | Refrence Link | Refrence Code |
 | --- | --- | --- | --- |
 | Glide | An image loading and caching library for Android | [Refrence Link](https://github.com/bumptech/glide) | Refrenec Code |
+| Fresco | An image loading and caching library for Android | [Refrence Link](https://frescolib.org/docs/index.html) | Refrenec Code |
 | Retrofit | A type-safe HTTP client for Android and Java | [Refrence Link](https://square.github.io/retrofit/) | Refrenec Code |
 | SDP | Scalable size unit | [Refrence Link](https://github.com/intuit/sdp) | Refrenec Code |
 | Lottie | Render After Effects animations natively on Android | [Refrence Link](https://github.com/airbnb/lottie-android) | Refrenec Code |
