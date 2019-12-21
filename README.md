@@ -77,5 +77,6 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 | Lib | Title | Refrence Link | Refrence Code |
 | --- | --- | --- | --- |
 | Glide | An image loading and caching library for Android | Refrence Link | Refrenec Code |
+| Retrofit | A type-safe HTTP client for Android and Java | Refrence Link | Refrenec Code |
 
 
