@@ -31,7 +31,7 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 |11| Learn about working with web services (Parsers) | [Refrence Link](https://developer.android.com/reference/org/xml/sax/Parser) | Refrence Code |
 |12| Learn about Database and ORM. | [Refrence Link](https://developer.android.com/training/data-storage/sqlite) | Refrence Code |
 |13| Learn about Service, IntentService | [Refrence Link](https://developer.android.com/guide/components/services.html) | Refrenec Code |
-|14| Learn about the Android Sensors, GPS, Acceleration. | [Refrence Link](https://developer.android.com/guide/topics/sensors/sensors_motion.html) | Refrenec Code |
+|14| Learn about the Android Sensors, GPS, Acceleration. | [Refrence Link](https://developer.android.com/guide/topics/sensors/sensors_motion.html) | [Refrenec Code](https://github.com/faramarzaf/Sensors) |
 |15| Learn about creating Custom View. | [Refrence Link](https://developer.android.com/training/custom-views/index.html) | Refrenec Code |
 |16| Learn about Notification. | [Refrence Link](https://developer.android.com/guide/topics/ui/notifiers/notifications.html) | Refrenec Code |
 |17| Learn about Orientation Changes. | [Refrence Link](https://developer.android.com/guide/topics/resources/runtime-changes.html) | Refrenec Code |
