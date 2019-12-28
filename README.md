@@ -33,8 +33,8 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 |13| Learn about Service, IntentService | [Refrence Link](https://developer.android.com/guide/components/services.html) | Refrenec Code |
 |14| Learn about the Android Sensors, GPS, Acceleration. | [Refrence Link](https://developer.android.com/guide/topics/sensors/sensors_motion.html) | [Refrenec Code](https://github.com/faramarzaf/Sensors) |
 |15| Learn about creating Custom View. | [Refrence Link](https://developer.android.com/training/custom-views/index.html) | Refrenec Code |
-|16| Learn about Notification. | [Refrence Link](https://developer.android.com/guide/topics/ui/notifiers/notifications.html) | Refrenec Code |
-|17| Learn about Orientation Changes. | [Refrence Link](https://developer.android.com/guide/topics/resources/runtime-changes.html) | Refrenec Code |
+|16| Learn about Notification. | [Refrence Link](https://developer.android.com/guide/topics/ui/notifiers/notifications.html) | [Refrenec Code](https://github.com/faramarzaf/Notification) |
+|17| Learn about Orientation Changes. | [Refrence Link](https://developer.android.com/guide/topics/resources/runtime-changes.html) | [Refrenec Code](https://github.com/faramarzaf/Orientation-Changes) |
 |18| Learn How The Android Image Loading Library work (Glide, Fresco) | [Refrence Link](https://github.com/bumptech/glide) | Refrenec Code |
 |19| Learn about Map and location base APIs | [Refrence Link](https://developers.google.com/android/reference/com/google/android/gms/maps/MapView) | Refrenec Code |
 |20| Learn how to Play Audio and Video in Android | [Refrence Link](https://developer.android.com/guide/topics/media) | Refrenec Code |
