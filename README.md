@@ -41,7 +41,7 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 |21| Learn how to develop widgets in Android | [Refrence Link](https://developer.android.com/guide/topics/appwidgets/overview) | Refrenec Code |
 |22| Learn how to work with run time permissions in Android | [Refrence Link](https://developer.android.com/training/permissions/requesting) | [Refrenec Code](https://github.com/faramarzaf/Permissions) |
 |23| Learn how to work with proguard in Android | [Refrence Link](https://developer.android.com/studio/build/shrink-code) | Refrenec Code |
-|24| Learn how to build multi language app in Android | [Refrence Link](https://developer.android.com/training/basics/supporting-devices/languages) | Refrenec Code |
+|24| Learn how to build multi language app in Android | [Refrence Link](https://developer.android.com/training/basics/supporting-devices/languages) | [Refrenec Code](https://github.com/faramarzaf/MultiLanguage) |
 |25| Learn how to build multi theme app in Android | [Refrence Link](https://developer.android.com/guide/topics/ui/look-and-feel/themes) | Refrenec Code |
 |26| Learn how to work with bundles in Android | [Refrence Link](https://developer.android.com/reference/android/os/Bundle) | [Refrenec Code](https://github.com/faramarzaf/FragmentBundle) |
 |27| Learn how to work with Spinners in Android | [Refrence Link](https://developer.android.com/guide/topics/ui/controls/spinner) | Refrenec Code |
