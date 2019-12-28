@@ -21,13 +21,13 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 | --- | --- | --- | --- |
 |1| Learn about debugging an Android Application step by step.| [Refrence Link](https://developer.android.com/training/data-storage/shared-preferences) | Refrence Code |
 |2| Understand the Activity Lifecycle. | [Refrence Link](https://developer.android.com/guide/components/activities/activity-lifecycle) | Refrence Code |
-|3| Learn about Shared Preferences. | [Refrence Link](https://developFer.android.com/training/data-storage/shared-preferences) | Refrence Code |
+|3| Learn about Shared Preferences. | [Refrence Link](https://developFer.android.com/training/data-storage/shared-preferences) | [Refrence Code](https://github.com/faramarzaf/Shared-Preferences) |
 |4| Learn about Fragment in Android. | [Refrence Link](https://developer.android.com/guide/components/fragments.html) | [Refrence Code](https://github.com/faramarzaf/Fragments) |
 |5| Learn about RecyclerView in Android.| [Refrence Link](https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html) | [Refrence Code](https://github.com/faramarzaf/RecyclerViewPack) |
 |7| Learn about Dialog, Dialog Fragments. | [Refrence Link](https://developer.android.com/guide/topics/ui/dialogs) | [Refrence Code](https://github.com/faramarzaf/Dialogs)|
 |8| Learn about Actionbars, toolbar and menu. | [Refrence Link](https://developer.android.com/reference/android/widget/Toolbar) | [Refrence Code](https://github.com/faramarzaf/Toolbar-Menu)|
 |9| Learn about basic threading. | [Refrence Link](https://developer.android.com/topic/performance/threads) | Refrence Code |
-|10| Learn about Networking in Android applications. | [Refrence Link](https://developer.android.com/training/basics/network-ops/connecting) | Refrence Code |
+|10| Learn about Networking in Android applications. | [Refrence Link](https://developer.android.com/training/basics/network-ops/connecting) | [Refrence Code](https://github.com/faramarzaf/Network) |
 |11| Learn about working with web services (Parsers) | [Refrence Link](https://developer.android.com/reference/org/xml/sax/Parser) | Refrence Code |
 |12| Learn about Database (SqlLite). | [Refrence Link](https://developer.android.com/training/data-storage/sqlite) | Refrence Code |
 |13| Learn about Service, IntentService | [Refrence Link](https://developer.android.com/guide/components/services.html) | Refrenec Code |
@@ -60,7 +60,7 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 |1| Implement complex Recyclerview (multi-view) | Refrence Link | Refrenec Code |
 |2| Implement Sliding Pages (Intro Pages) | Refrence Link | Refrenec Code |
 |3| Implement Custom SnackBars | [Refrence Link](https://developer.android.com/reference/android/support/design/widget/Snackbar) | [Refrenec Code](https://github.com/faramarzaf/SnackBarApp) |
-|4| Implement Custom FAB (FLoatingActionButton) | Refrence Link | Refrenec Code |
+|4| Implement Custom FAB (FLoatingActionButton) | Refrence Link | [Refrenec Code](https://github.com/faramarzaf/FloatingActionButton) |
 |5| Implement Custom BottomSheet (font + coloring) | Refrence Link | Refrenec Code |
 |6| Implement Veiw Selectors (Clicked, Hover,... ) | Refrence Link | Refrenec Code |
 
