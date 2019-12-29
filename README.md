@@ -44,8 +44,8 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 |24| Learn how to build multi language app in Android | [Refrence Link](https://developer.android.com/training/basics/supporting-devices/languages) | [Refrenec Code](https://github.com/faramarzaf/MultiLanguage) |
 |25| Learn how to build multi theme app in Android | [Refrence Link](https://developer.android.com/guide/topics/ui/look-and-feel/themes) | [Refrenec Code](https://github.com/faramarzaf/MultiTheme) |
 |26| Learn how to work with bundles in Android | [Refrence Link](https://developer.android.com/reference/android/os/Bundle) | [Refrenec Code](https://github.com/faramarzaf/FragmentBundle) |
-|27| Learn how to work with Spinners in Android | [Refrence Link](https://developer.android.com/guide/topics/ui/controls/spinner) | Refrenec Code |
-|28| Learn how to work with Horizontal recyclerview in Android | [Refrence Link](https://developer.android.com/reference/android/support/v7/widget/LinearLayoutManager) | Refrenec Code |
+|27| Learn how to work with Spinners in Android | [Refrence Link](https://developer.android.com/guide/topics/ui/controls/spinner) | [Refrenec Code](https://github.com/faramarzaf/Spinner-Pack) |
+|28| Learn how to work with Horizontal recyclerview in Android | [Refrence Link](https://developer.android.com/reference/android/support/v7/widget/LinearLayoutManager) | [Refrenec Code](https://github.com/faramarzaf/RecyclerViewPack) |
 |29| Learn how to create GridView with recyclerview in Android | [Refrence Link](https://developer.android.com/reference/android/support/v7/widget/GridLayoutManager) | [Refrenec Code](https://github.com/faramarzaf/GridViewPack) |
 |30| Learn how to work with calendars and datepickers in Android | [Refrence Link](https://developer.android.com/reference/java/util/Calendar) | Refrenec Code |
 |31| Learn how to work with camera (Image/Video) in Android | [Refrence Link](https://developer.android.com/guide/topics/media/camera) | [Refrenec Code](https://github.com/faramarzaf/CameraPack) |
@@ -57,7 +57,7 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 ## Headlines ( UI/UX )
 | Id | Title | Refrence Link | Refrence Code |
 | --- | --- | --- | --- |
-|1| Implement complex Recyclerview (multi-view) | Refrence Link | Refrenec Code |
+|1| Implement complex Recyclerview (multi-view) | Refrence Link | [Refrenec Code](https://github.com/faramarzaf/RecyclerViewPack) |
 |2| Implement Sliding Pages (Intro Pages) | Refrence Link | Refrenec Code |
 |3| Implement Custom SnackBars | [Refrence Link](https://developer.android.com/reference/android/support/design/widget/Snackbar) | [Refrenec Code](https://github.com/faramarzaf/SnackBarApp) |
 |4| Implement Custom FAB (FLoatingActionButton) | Refrence Link | [Refrenec Code](https://github.com/faramarzaf/FloatingActionButton) |
