@@ -26,27 +26,27 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 |5| Learn about RecyclerView in Android.| [Refrence Link](https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html) | [Refrence Code](https://github.com/faramarzaf/RecyclerViewPack) |
 |7| Learn about Dialog, Dialog Fragments. | [Refrence Link](https://developer.android.com/guide/topics/ui/dialogs) | [Refrence Code](https://github.com/faramarzaf/Dialogs)|
 |8| Learn about Actionbars, toolbar and menu. | [Refrence Link](https://developer.android.com/reference/android/widget/Toolbar) | [Refrence Code](https://github.com/faramarzaf/Toolbar-Menu)|
-|9| Learn about basic threading. | [Refrence Link](https://developer.android.com/topic/performance/threads) | Refrence Code |
+|9| Learn about basic threading. | [Refrence Link](https://developer.android.com/topic/performance/threads) | [Refrence Code](https://github.com/faramarzaf/Thread ) |
 |10| Learn about Networking in Android applications. | [Refrence Link](https://developer.android.com/training/basics/network-ops/connecting) | [Refrence Code](https://github.com/faramarzaf/Network) |
-|11| Learn about working with web services (Parsers) | [Refrence Link](https://developer.android.com/reference/org/xml/sax/Parser) | Refrence Code |
+|11| Learn about working with web services (Parsers) | [Refrence Link](https://developer.android.com/reference/org/xml/sax/Parser) | [Refrence Code](https://github.com/faramarzaf/Parser ) |
 |12| Learn about Database (SqlLite). | [Refrence Link](https://developer.android.com/training/data-storage/sqlite) | [Refrence Code](https://github.com/faramarzaf/SQLite-CRUD) |
-|13| Learn about Service, IntentService | [Refrence Link](https://developer.android.com/guide/components/services.html) | Refrenec Code |
+|13| Learn about Service, IntentService | [Refrence Link](https://developer.android.com/guide/components/services.html) | [Refrenec Code](https://github.com/faramarzaf/Service) |
 |14| Learn about the Android Sensors, GPS, Acceleration. | [Refrence Link](https://developer.android.com/guide/topics/sensors/sensors_motion.html) | [Refrenec Code](https://github.com/faramarzaf/Sensors) |
 |15| Learn about creating Custom View. | [Refrence Link](https://developer.android.com/training/custom-views/index.html) | Refrenec Code |
 |16| Learn about Notification. | [Refrence Link](https://developer.android.com/guide/topics/ui/notifiers/notifications.html) | [Refrenec Code](https://github.com/faramarzaf/Notification) |
 |17| Learn about Orientation Changes. | [Refrence Link](https://developer.android.com/guide/topics/resources/runtime-changes.html) | [Refrenec Code](https://github.com/faramarzaf/Orientation-Changes) |
-|18| Learn How The Android Image Loading Library work (Glide, Fresco) | [Refrence Link](https://github.com/bumptech/glide) | Refrenec Code |
-|19| Learn about Map and location base APIs | [Refrence Link](https://developers.google.com/android/reference/com/google/android/gms/maps/MapView) | Refrenec Code |
-|20| Learn how to Play Audio and Video in Android | [Refrence Link](https://developer.android.com/guide/topics/media) | Refrenec Code |
-|21| Learn how to develop widgets in Android | [Refrence Link](https://developer.android.com/guide/topics/appwidgets/overview) | Refrenec Code |
+|18| Learn How The Android Image Loading Library work (Glide, Fresco) | [Refrence Link](https://github.com/bumptech/glide) | [Refrenec Code](https://github.com/faramarzaf/ImageLoading ) |
+|19| Learn about Map and location base APIs | [Refrence Link](https://developers.google.com/android/reference/com/google/android/gms/maps/MapView) | [Refrenec Code](https://github.com/faramarzaf/Bootcamp-Map ) |
+|20| Learn how to Play Audio and Video in Android | [Refrence Link](https://developer.android.com/guide/topics/media) | [Refrenec Code](https://github.com/faramarzaf/Audio-Video ) |
+|21| Learn how to develop widgets in Android | [Refrence Link](https://developer.android.com/guide/topics/appwidgets/overview) | [Refrenec Code](https://github.com/faramarzaf/Widget) |
 |22| Learn how to work with run time permissions in Android | [Refrence Link](https://developer.android.com/training/permissions/requesting) | [Refrenec Code](https://github.com/faramarzaf/Permissions) |
-|23| Learn how to work with proguard in Android | [Refrence Link](https://developer.android.com/studio/build/shrink-code) | Refrenec Code |
+|23| Learn how to work with proguard in Android | [Refrence Link](https://developer.android.com/studio/build/shrink-code) | [Refrenec Code](https://github.com/faramarzaf/Proguard  ) |
 |24| Learn how to build multi language app in Android | [Refrence Link](https://developer.android.com/training/basics/supporting-devices/languages) | [Refrenec Code](https://github.com/faramarzaf/MultiLanguage) |
 |25| Learn how to build multi theme app in Android | [Refrence Link](https://developer.android.com/guide/topics/ui/look-and-feel/themes) | [Refrenec Code](https://github.com/faramarzaf/MultiTheme) |
 |26| Learn how to work with bundles in Android | [Refrence Link](https://developer.android.com/reference/android/os/Bundle) | [Refrenec Code](https://github.com/faramarzaf/FragmentBundle) |
 |27| Learn how to work with Spinners in Android | [Refrence Link](https://developer.android.com/guide/topics/ui/controls/spinner) | Refrenec Code |
 |28| Learn how to work with Horizontal recyclerview in Android | [Refrence Link](https://developer.android.com/reference/android/support/v7/widget/LinearLayoutManager) | Refrenec Code |
-|29| Learn how to create GridView with recyclerview in Android | [Refrence Link](https://developer.android.com/reference/android/support/v7/widget/GridLayoutManager) | Refrenec Code |
+|29| Learn how to create GridView with recyclerview in Android | [Refrence Link](https://developer.android.com/reference/android/support/v7/widget/GridLayoutManager) | [Refrenec Code](https://github.com/faramarzaf/GridViewPack) |
 |30| Learn how to work with calendars and datepickers in Android | [Refrence Link](https://developer.android.com/reference/java/util/Calendar) | Refrenec Code |
 |31| Learn how to work with camera (Image/Video) in Android | [Refrence Link](https://developer.android.com/guide/topics/media/camera) | [Refrenec Code](https://github.com/faramarzaf/CameraPack) |
 |32| Learn how to work with animations in Android | [Refrence Link](https://developer.android.com/training/animation/overview) | [Refrenec Code](https://github.com/faramarzaf/Animations) |
