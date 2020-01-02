@@ -32,7 +32,7 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 |12| Learn about Database (SqlLite). | [Refrence Link](https://developer.android.com/training/data-storage/sqlite) | [Refrence Code](https://github.com/faramarzaf/SQLite-CRUD) |
 |13| Learn about Service, IntentService | [Refrence Link](https://developer.android.com/guide/components/services.html) | [Refrenec Code](https://github.com/faramarzaf/Service) |
 |14| Learn about the Android Sensors, GPS, Acceleration. | [Refrence Link](https://developer.android.com/guide/topics/sensors/sensors_motion.html) | [Refrenec Code](https://github.com/faramarzaf/Sensors) |
-|15| Learn about creating Custom View. | [Refrence Link](https://developer.android.com/training/custom-views/index.html) | Refrenec Code |
+|15| Learn about creating Custom View. | [Refrence Link](https://developer.android.com/training/custom-views/index.html) | [Refrenec Code](https://github.com/faramarzaf/ValueSelector) |
 |16| Learn about Notification. | [Refrence Link](https://developer.android.com/guide/topics/ui/notifiers/notifications.html) | [Refrenec Code](https://github.com/faramarzaf/Notification) |
 |17| Learn about Orientation Changes. | [Refrence Link](https://developer.android.com/guide/topics/resources/runtime-changes.html) | [Refrenec Code](https://github.com/faramarzaf/Orientation-Changes) |
 |18| Learn How The Android Image Loading Library work (Glide, Fresco) | [Refrence Link](https://github.com/bumptech/glide) | [Refrenec Code](https://github.com/faramarzaf/ImageLoading ) |
@@ -57,12 +57,12 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 ## Headlines ( UI/UX )
 | Id | Title | Refrence Link | Refrence Code |
 | --- | --- | --- | --- |
-|1| Implement complex Recyclerview (multi-view) | Refrence Link | [Refrenec Code](https://github.com/faramarzaf/RecyclerViewPack) |
-|2| Implement Sliding Pages (Intro Pages) | Refrence Link | [Refrenec Code](https://github.com/faramarzaf/SlidingPage) |
+|1| Implement complex Recyclerview (multi-view) | [Refrence Link](https://developer.android.com/guide/topics/ui/layout/recyclerview) | [Refrenec Code](https://github.com/faramarzaf/RecyclerViewPack) |
+|2| Implement Sliding Pages (Intro Pages) | [Refrence Link](https://developer.android.com/training/animation/screen-slide) | [Refrenec Code](https://github.com/faramarzaf/SlidingPage) |
 |3| Implement Custom SnackBars | [Refrence Link](https://developer.android.com/reference/android/support/design/widget/Snackbar) | [Refrenec Code](https://github.com/faramarzaf/SnackBarApp) |
-|4| Implement Custom FAB (FLoatingActionButton) | Refrence Link | [Refrenec Code](https://github.com/faramarzaf/FloatingActionButton) |
-|5| Implement Custom BottomSheet (font + coloring) | Refrence Link | [Refrenec Code](https://github.com/faramarzaf/BottomSheet) |
-|6| Implement Veiw Selectors (Clicked, Hover,... ) | Refrence Link | [Refrenec Code](https://github.com/faramarzaf/ViewSelectors) |
+|4| Implement Custom FAB (FLoatingActionButton) | [Refrence Link](https://developer.android.com/guide/topics/ui/floating-action-button) | [Refrenec Code](https://github.com/faramarzaf/FloatingActionButton) |
+|5| Implement Custom BottomSheet (font + coloring) | [Refrence Link](https://developer.android.com/reference/com/google/android/material/bottomsheet/package-summary) | [Refrenec Code](https://github.com/faramarzaf/BottomSheet) |
+|6| Implement Veiw Selectors (Clicked, Hover,... ) | [Refrence Link](https://developer.android.com/guide/topics/resources/color-list-resource) | [Refrenec Code](https://github.com/faramarzaf/ViewSelectors) |
 
 
 ## Headlines ( Advance )
