@@ -82,5 +82,6 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 | Retrofit | A type-safe HTTP client for Android and Java | [Refrence Link](https://square.github.io/retrofit/) | Refrenec Code |
 | SDP | Scalable size unit | [Refrence Link](https://github.com/intuit/sdp) | Refrenec Code |
 | Lottie | Render After Effects animations natively on Android | [Refrence Link](https://github.com/airbnb/lottie-android) | Refrenec Code |
+| LoadingView | A simple loadingview for android with animation | [Refrence Link](https://github.com/ldoublem/LoadingView) | Refrenec Code |
 
 
