@@ -17,71 +17,71 @@ In our Interviews we have seen most of our Intern volunteers ask, how to learn A
 
 ## Headlines ( Elementary )
 
-| Id | Title | Refrence Link | Refrence Code |
+| Id | Title | Reference Link | Reference Code |
 | --- | --- | --- | --- |
-|1| Learn about debugging an Android Application step by step.| [Refrence Link](https://developer.android.com/training/data-storage/shared-preferences) | Refrence Code |
-|2| Understand the Activity Lifecycle. | [Refrence Link](https://developer.android.com/guide/components/activities/activity-lifecycle) | [Refrence Code](https://github.com/faramarzaf/Activity-Lifecycle) |
-|3| Learn about Shared Preferences. | [Refrence Link](https://developFer.android.com/training/data-storage/shared-preferences) | [Refrence Code](https://github.com/faramarzaf/Shared-Preferences) |
-|4| Learn about Fragment in Android. | [Refrence Link](https://developer.android.com/guide/components/fragments.html) | [Refrence Code](https://github.com/faramarzaf/Fragments) |
-|5| Learn about RecyclerView in Android.| [Refrence Link](https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html) | [Refrence Code](https://github.com/faramarzaf/RecyclerViewPack) |
-|7| Learn about Dialog, Dialog Fragments. | [Refrence Link](https://developer.android.com/guide/topics/ui/dialogs) | [Refrence Code](https://github.com/faramarzaf/Dialogs)|
-|8| Learn about Actionbars, toolbar and menu. | [Refrence Link](https://developer.android.com/reference/android/widget/Toolbar) | [Refrence Code](https://github.com/faramarzaf/Toolbar-Menu)|
-|9| Learn about basic threading. | [Refrence Link](https://developer.android.com/topic/performance/threads) | [Refrence Code](https://github.com/faramarzaf/Thread ) |
-|10| Learn about Networking in Android applications. | [Refrence Link](https://developer.android.com/training/basics/network-ops/connecting) | [Refrence Code](https://github.com/faramarzaf/Network) |
-|11| Learn about working with web services (Parsers) | [Refrence Link](https://developer.android.com/reference/org/xml/sax/Parser) | [Refrence Code](https://github.com/faramarzaf/Parser ) |
-|12| Learn about Database (SqlLite). | [Refrence Link](https://developer.android.com/training/data-storage/sqlite) | [Refrence Code](https://github.com/faramarzaf/SQLite-CRUD) |
-|13| Learn about Service, IntentService | [Refrence Link](https://developer.android.com/guide/components/services.html) | [Refrenec Code](https://github.com/faramarzaf/Service) |
-|14| Learn about the Android Sensors, GPS, Acceleration. | [Refrence Link](https://developer.android.com/guide/topics/sensors/sensors_motion.html) | [Refrenec Code](https://github.com/faramarzaf/Sensors) |
-|15| Learn about creating Custom View. | [Refrence Link](https://developer.android.com/training/custom-views/index.html) | [Refrenec Code](https://github.com/faramarzaf/ValueSelector) |
-|16| Learn about Notification. | [Refrence Link](https://developer.android.com/guide/topics/ui/notifiers/notifications.html) | [Refrenec Code](https://github.com/faramarzaf/Notification) |
-|17| Learn about Orientation Changes. | [Refrence Link](https://developer.android.com/guide/topics/resources/runtime-changes.html) | [Refrenec Code](https://github.com/faramarzaf/Orientation-Changes) |
-|18| Learn How The Android Image Loading Library work (Glide, Fresco) | [Refrence Link](https://github.com/bumptech/glide) | [Refrenec Code](https://github.com/faramarzaf/ImageLoading ) |
-|19| Learn about Map and location base APIs | [Refrence Link](https://developers.google.com/android/reference/com/google/android/gms/maps/MapView) | [Refrenec Code](https://github.com/faramarzaf/Bootcamp-Map ) |
-|20| Learn how to Play Audio and Video in Android | [Refrence Link](https://developer.android.com/guide/topics/media) | [Refrenec Code](https://github.com/faramarzaf/Audio-Video ) |
-|21| Learn how to develop widgets in Android | [Refrence Link](https://developer.android.com/guide/topics/appwidgets/overview) | [Refrenec Code](https://github.com/faramarzaf/Widget) |
-|22| Learn how to work with run time permissions in Android | [Refrence Link](https://developer.android.com/training/permissions/requesting) | [Refrenec Code](https://github.com/faramarzaf/Permissions) |
-|23| Learn how to work with proguard in Android | [Refrence Link](https://developer.android.com/studio/build/shrink-code) | [Refrenec Code](https://github.com/faramarzaf/Proguard  ) |
-|24| Learn how to build multi language app in Android | [Refrence Link](https://developer.android.com/training/basics/supporting-devices/languages) | [Refrenec Code](https://github.com/faramarzaf/MultiLanguage) |
-|25| Learn how to build multi theme app in Android | [Refrence Link](https://developer.android.com/guide/topics/ui/look-and-feel/themes) | [Refrenec Code](https://github.com/faramarzaf/MultiTheme) |
-|26| Learn how to work with bundles in Android | [Refrence Link](https://developer.android.com/reference/android/os/Bundle) | [Refrenec Code](https://github.com/faramarzaf/FragmentBundle) |
-|27| Learn how to work with Spinners in Android | [Refrence Link](https://developer.android.com/guide/topics/ui/controls/spinner) | [Refrenec Code](https://github.com/faramarzaf/Spinner-Pack) |
-|28| Learn how to work with Horizontal recyclerview in Android | [Refrence Link](https://developer.android.com/reference/android/support/v7/widget/LinearLayoutManager) | [Refrenec Code](https://github.com/faramarzaf/RecyclerViewPack) |
-|29| Learn how to create GridView with recyclerview in Android | [Refrence Link](https://developer.android.com/reference/android/support/v7/widget/GridLayoutManager) | [Refrenec Code](https://github.com/faramarzaf/GridViewPack) |
-|30| Learn how to work with calendars and datepickers in Android | [Refrence Link](https://developer.android.com/reference/java/util/Calendar) | [Refrenec Code](https://github.com/faramarzaf/DatePickers) |
-|31| Learn how to work with camera (Image/Video) in Android | [Refrence Link](https://developer.android.com/guide/topics/media/camera) | [Refrenec Code](https://github.com/faramarzaf/CameraPack) |
-|32| Learn how to work with animations in Android | [Refrence Link](https://developer.android.com/training/animation/overview) | [Refrenec Code](https://github.com/faramarzaf/Animations) |
-|33| Learn how to work with Memory in Android | [Refrence Link](https://developer.android.com/topic/performance/memory-overview) | [Refrenec Code](https://github.com/faramarzaf/Memory) |
+|1| Learn about debugging an Android Application step by step.| [Reference Link](https://developer.android.com/training/data-storage/shared-preferences) | Reference Code |
+|2| Understand the Activity Lifecycle. | [Reference Link](https://developer.android.com/guide/components/activities/activity-lifecycle) | [Reference Code](https://github.com/faramarzaf/Activity-Lifecycle) |
+|3| Learn about Shared Preferences. | [Reference Link](https://developFer.android.com/training/data-storage/shared-preferences) | [Reference Code](https://github.com/faramarzaf/Shared-Preferences) |
+|4| Learn about Fragment in Android. | [Reference Link](https://developer.android.com/guide/components/fragments.html) | [Reference Code](https://github.com/faramarzaf/Fragments) |
+|5| Learn about RecyclerView in Android.| [Reference Link](https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html) | [Reference Code](https://github.com/faramarzaf/RecyclerViewPack) |
+|7| Learn about Dialog, Dialog Fragments. | [Reference Link](https://developer.android.com/guide/topics/ui/dialogs) | [Reference Code](https://github.com/faramarzaf/Dialogs)|
+|8| Learn about Actionbars, toolbar and menu. | [Reference Link](https://developer.android.com/reference/android/widget/Toolbar) | [Reference Code](https://github.com/faramarzaf/Toolbar-Menu)|
+|9| Learn about basic threading. | [Reference Link](https://developer.android.com/topic/performance/threads) | [Reference Code](https://github.com/faramarzaf/Thread ) |
+|10| Learn about Networking in Android applications. | [Reference Link](https://developer.android.com/training/basics/network-ops/connecting) | [Reference Code](https://github.com/faramarzaf/Network) |
+|11| Learn about working with web services (Parsers) | [Reference Link](https://developer.android.com/reference/org/xml/sax/Parser) | [Reference Code](https://github.com/faramarzaf/Parser ) |
+|12| Learn about Database (SqlLite). | [Reference Link](https://developer.android.com/training/data-storage/sqlite) | [Reference Code](https://github.com/faramarzaf/SQLite-CRUD) |
+|13| Learn about Service, IntentService | [Reference Link](https://developer.android.com/guide/components/services.html) | [Reference Code](https://github.com/faramarzaf/Service) |
+|14| Learn about the Android Sensors, GPS, Acceleration. | [Reference Link](https://developer.android.com/guide/topics/sensors/sensors_motion.html) | [Reference Code](https://github.com/faramarzaf/Sensors) |
+|15| Learn about creating Custom View. | [Reference Link](https://developer.android.com/training/custom-views/index.html) | [Reference Code](https://github.com/faramarzaf/ValueSelector) |
+|16| Learn about Notification. | [Reference Link](https://developer.android.com/guide/topics/ui/notifiers/notifications.html) | [Reference Code](https://github.com/faramarzaf/Notification) |
+|17| Learn about Orientation Changes. | [Reference Link](https://developer.android.com/guide/topics/resources/runtime-changes.html) | [Reference Code](https://github.com/faramarzaf/Orientation-Changes) |
+|18| Learn How The Android Image Loading Library work (Glide, Fresco) | [Reference Link](https://github.com/bumptech/glide) | [Reference Code](https://github.com/faramarzaf/ImageLoading ) |
+|19| Learn about Map and location base APIs | [Reference Link](https://developers.google.com/android/reference/com/google/android/gms/maps/MapView) | [Reference Code](https://github.com/faramarzaf/Bootcamp-Map ) |
+|20| Learn how to Play Audio and Video in Android | [Reference Link](https://developer.android.com/guide/topics/media) | [Reference Code](https://github.com/faramarzaf/Audio-Video ) |
+|21| Learn how to develop widgets in Android | [Reference Link](https://developer.android.com/guide/topics/appwidgets/overview) | [Reference Code](https://github.com/faramarzaf/Widget) |
+|22| Learn how to work with run time permissions in Android | [Reference Link](https://developer.android.com/training/permissions/requesting) | [Reference Code](https://github.com/faramarzaf/Permissions) |
+|23| Learn how to work with proguard in Android | [Reference Link](https://developer.android.com/studio/build/shrink-code) | [Reference Code](https://github.com/faramarzaf/Proguard  ) |
+|24| Learn how to build multi language app in Android | [Reference Link](https://developer.android.com/training/basics/supporting-devices/languages) | [Reference Code](https://github.com/faramarzaf/MultiLanguage) |
+|25| Learn how to build multi theme app in Android | [Reference Link](https://developer.android.com/guide/topics/ui/look-and-feel/themes) | [Reference Code](https://github.com/faramarzaf/MultiTheme) |
+|26| Learn how to work with bundles in Android | [Reference Link](https://developer.android.com/reference/android/os/Bundle) | [Reference Code](https://github.com/faramarzaf/FragmentBundle) |
+|27| Learn how to work with Spinners in Android | [Reference Link](https://developer.android.com/guide/topics/ui/controls/spinner) | [Reference Code](https://github.com/faramarzaf/Spinner-Pack) |
+|28| Learn how to work with Horizontal recyclerview in Android | [Reference Link](https://developer.android.com/reference/android/support/v7/widget/LinearLayoutManager) | [Reference Code](https://github.com/faramarzaf/RecyclerViewPack) |
+|29| Learn how to create GridView with recyclerview in Android | [Reference Link](https://developer.android.com/reference/android/support/v7/widget/GridLayoutManager) | [Reference Code](https://github.com/faramarzaf/GridViewPack) |
+|30| Learn how to work with calendars and datepickers in Android | [Reference Link](https://developer.android.com/reference/java/util/Calendar) | [Reference Code](https://github.com/faramarzaf/DatePickers) |
+|31| Learn how to work with camera (Image/Video) in Android | [Reference Link](https://developer.android.com/guide/topics/media/camera) | [Reference Code](https://github.com/faramarzaf/CameraPack) |
+|32| Learn how to work with animations in Android | [Reference Link](https://developer.android.com/training/animation/overview) | [Reference Code](https://github.com/faramarzaf/Animations) |
+|33| Learn how to work with Memory in Android | [Reference Link](https://developer.android.com/topic/performance/memory-overview) | [Reference Code](https://github.com/faramarzaf/Memory) |
 
 ---
 
 ## Headlines ( UI/UX )
-| Id | Title | Refrence Link | Refrence Code |
+| Id | Title | Reference Link | Reference Code |
 | --- | --- | --- | --- |
-|1| Implement complex Recyclerview (multi-view) | [Refrence Link](https://developer.android.com/guide/topics/ui/layout/recyclerview) | [Refrenec Code](https://github.com/faramarzaf/RecyclerViewPack) |
-|2| Implement Sliding Pages (Intro Pages) | [Refrence Link](https://developer.android.com/training/animation/screen-slide) | [Refrenec Code](https://github.com/faramarzaf/SlidingPage) |
-|3| Implement Custom SnackBars | [Refrence Link](https://developer.android.com/reference/android/support/design/widget/Snackbar) | [Refrenec Code](https://github.com/faramarzaf/SnackBarApp) |
-|4| Implement Custom FAB (FLoatingActionButton) | [Refrence Link](https://developer.android.com/guide/topics/ui/floating-action-button) | [Refrenec Code](https://github.com/faramarzaf/FloatingActionButton) |
-|5| Implement Custom BottomSheet (font + coloring) | [Refrence Link](https://developer.android.com/reference/com/google/android/material/bottomsheet/package-summary) | [Refrenec Code](https://github.com/faramarzaf/BottomSheet) |
-|6| Implement Veiw Selectors (Clicked, Hover,... ) | [Refrence Link](https://developer.android.com/guide/topics/resources/color-list-resource) | [Refrenec Code](https://github.com/faramarzaf/ViewSelectors) |
+|1| Implement complex Recyclerview (multi-view) | [Reference Link](https://developer.android.com/guide/topics/ui/layout/recyclerview) | [Reference Code](https://github.com/faramarzaf/RecyclerViewPack) |
+|2| Implement Sliding Pages (Intro Pages) | [Reference Link](https://developer.android.com/training/animation/screen-slide) | [Reference Code](https://github.com/faramarzaf/SlidingPage) |
+|3| Implement Custom SnackBars | [Reference Link](https://developer.android.com/reference/android/support/design/widget/Snackbar) | [Reference Code](https://github.com/faramarzaf/SnackBarApp) |
+|4| Implement Custom FAB (FLoatingActionButton) | [Reference Link](https://developer.android.com/guide/topics/ui/floating-action-button) | [Reference Code](https://github.com/faramarzaf/FloatingActionButton) |
+|5| Implement Custom BottomSheet (font + coloring) | [Reference Link](https://developer.android.com/reference/com/google/android/material/bottomsheet/package-summary) | [Reference Code](https://github.com/faramarzaf/BottomSheet) |
+|6| Implement Veiw Selectors (Clicked, Hover,... ) | [Reference Link](https://developer.android.com/guide/topics/resources/color-list-resource) | [Reference Code](https://github.com/faramarzaf/ViewSelectors) |
 
 
 ## Headlines ( Advance )
-| Id | Title | Refrence Link | Refrence Code |
+| Id | Title | Reference Link | Reference Code |
 | --- | --- | --- | --- |
-|1| Add firebase analytics to your project | [Refrence Link](https://firebase.google.com/docs/analytics/get-started?platform=android) | [Refrenec Code](https://github.com/faramarzaf/FirebaseAnalytics) |
-|2| Add firebase crashlytics to your project | [Refrence Link](https://firebase.google.com/docs/crashlytics/get-started?platform=android) | [Refrenec Code](https://github.com/faramarzaf/Firebase-Crashlytics) |
-|3| Send/Receive push notification to your project | [Refrence Link](https://firebase.google.com/docs/cloud-messaging/android/first-message) | [Refrenec Code](https://github.com/faramarzaf/Firebase-PushNotif) |
-|4| Work with Room ORM | [Refrence Link](https://developer.android.com/topic/libraries/architecture/room) | [Refrenec Code](https://github.com/faramarzaf/RoomApp)|
+|1| Add firebase analytics to your project | [Reference Link](https://firebase.google.com/docs/analytics/get-started?platform=android) | [Reference Code](https://github.com/faramarzaf/FirebaseAnalytics) |
+|2| Add firebase crashlytics to your project | [Reference Link](https://firebase.google.com/docs/crashlytics/get-started?platform=android) | [Reference Code](https://github.com/faramarzaf/Firebase-Crashlytics) |
+|3| Send/Receive push notification to your project | [Reference Link](https://firebase.google.com/docs/cloud-messaging/android/first-message) | [Reference Code](https://github.com/faramarzaf/Firebase-PushNotif) |
+|4| Work with Room ORM | [Reference Link](https://developer.android.com/topic/libraries/architecture/room) | [Reference Code](https://github.com/faramarzaf/RoomApp)|
 
 
 ## Headlines ( Libraries )
-| Lib | Title | Refrence Link | Refrence Code |
+| Lib | Title | Reference Link | Reference Code |
 | --- | --- | --- | --- |
-| Glide | An image loading and caching library for Android | [Refrence Link](https://github.com/bumptech/glide) | Refrenec Code |
-| Fresco | An image loading and caching library for Android | [Refrence Link](https://frescolib.org/docs/index.html) | Refrenec Code |
-| Retrofit | A type-safe HTTP client for Android and Java | [Refrence Link](https://square.github.io/retrofit/) | Refrenec Code |
-| SDP | Scalable size unit | [Refrence Link](https://github.com/intuit/sdp) | Refrenec Code |
-| Lottie | Render After Effects animations natively on Android | [Refrence Link](https://github.com/airbnb/lottie-android) | Refrenec Code |
-| LoadingView | A simple loadingview for android with animation | [Refrence Link](https://github.com/ldoublem/LoadingView) | Refrenec Code |
+| Glide | An image loading and caching library for Android | [Reference Link](https://github.com/bumptech/glide) | Reference Code |
+| Fresco | An image loading and caching library for Android | [Reference Link](https://frescolib.org/docs/index.html) | Reference Code |
+| Retrofit | A type-safe HTTP client for Android and Java | [Reference Link](https://square.github.io/retrofit/) | Reference Code |
+| SDP | Scalable size unit | [Reference Link](https://github.com/intuit/sdp) | Reference Code |
+| Lottie | Render After Effects animations natively on Android | [Reference Link](https://github.com/airbnb/lottie-android) | Reference Code |
+| LoadingView | A simple loadingview for android with animation | [Reference Link](https://github.com/ldoublem/LoadingView) | Reference Code |
 
 
